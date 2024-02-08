@@ -25,10 +25,15 @@ body{
 .color-studio{
     color: #2E2F42;
 }
+.color-studio:hover ,
+.color-studio:focus{
+    color: #404bbf;
+}
 
 .page-item {
     font-weight: 500;
     font-size: 16px;
+    letter-spacing: 0.02em;
     list-style-type: none;
 
 }
