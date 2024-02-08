@@ -6,10 +6,13 @@ body{
     background-color: #ffffff;
     line-height: 1.5;
 }
+.page-header{
+    color: #FFFFFF;
 
+}
 
 .name-web{
-    font-family: 'Raleway' , sans-serif ;
+    font-family: 'Raleway' , sans-serif;
          color: #4D5AE5;
         font-weight: 700;
         font-size: 18px;
@@ -85,7 +88,7 @@ body{
     line-height: 1.5;
 }
 .button:hover ,
-.button:active{
+.button:focus{
   background-color: #404BBF;
 }
 
@@ -94,6 +97,7 @@ body{
 }
 .main-word{
     font-weight: 500;
+    color:#2e2f42;
     font-size: 20px;
     letter-spacing: 0.02em;
     line-height: 1.2;
@@ -134,6 +138,7 @@ body{
 font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
+    letter-spacing: 0.02em;
     text-align: center;
     color: #2E2F42;
 }
