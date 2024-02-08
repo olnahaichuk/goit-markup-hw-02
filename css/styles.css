@@ -146,6 +146,9 @@ font-weight: 500;
     color: #434455;
     
 }
+.footer-page{
+    background-color: #2E2F42;
+}
 .footer-page .name-web{
     font-family: "Raleway", sans-serif;
     background-color: #2E2F42;
