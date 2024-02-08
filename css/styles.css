@@ -1,0 +1,136 @@
+
+
+body{
+   font-family: 'Roboto', sans-serif;
+    color:#2e2f42;
+    background-color: #ffffff;
+    line-height: 1.5;
+}
+
+
+.name-web{
+        font-weight: 700;
+        font-size: 18px;
+        text-transform: uppercase;
+        text-decoration: none;
+}
+.color-web{
+    color: #4D5AE5;
+}
+.page-item{
+    font-weight: 500;
+    font-size: 16px;
+    list-style-type: none;
+    text-align:center;
+}
+.page-nav .items{
+    text-decoration: none;
+    color: #2E2F42;
+}
+.page-item:hover ,
+.page-item:active{
+    color: #404BBF;
+}
+
+.links-contacts ,
+.contacts-link{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    color: #434455;
+    text-decoration: none;
+    list-style-type: none;
+     font-weight: 400;
+     font-size: 16px;
+     line-height: 1.5;
+     text-align: right;
+    
+}
+
+.contacts-link:hover ,
+.contacts-link:focus{
+    color:#404BBF;
+    
+}
+.main-page ,
+.page{
+    background-color: #2E2F42 ;
+    color: #ffffff;
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1.7;
+        text-align: center;
+}
+.button{
+    cursor: pointer;
+    font-family: inherit;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    background: #4D5AE5;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.text-list{
+    list-style-type: none;
+}
+.main-word{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+}
+.main-text{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+.main-word-section{
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    text-transform: capitalize;
+    text-align: center;
+    color: #2E2F42;
+}
+.page-team{
+    background-color:#F4F4FD;
+}
+.team-list{
+    list-style-type: none;
+}
+.background-color{
+    background-color: #ffffff;
+    box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08), 0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
+}
+.portfolio-list{
+    list-style-type: none;
+}
+.portf-background-color{
+    color: #E7E9FC;
+}
+.item-name{
+font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    text-align: center;
+    color: #2E2F42;
+}
+.descr{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    color: #434455;
+    
+}
+.footer-page{
+    background-color: #2E2F42;
+    color: #F4F4FD;
+}
+.footer-page .name-web{
+    color:#F4F4FD;
+}
+
+
+
+
+
