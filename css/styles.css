@@ -10,7 +10,6 @@ body{
     color: #FFFFFF;
 
 }
-
 .name-web{
     font-family: 'Raleway' , sans-serif;
          color: #4D5AE5;
@@ -27,18 +26,17 @@ body{
     color: #2E2F42;
 }
 
+.page-item {
+    font-weight: 500;
+    font-size: 16px;
+    list-style-type: none;
 
+}
 .page-item:hover,
 .page-item:active {
     color: #404BBF;
 } 
 
-.page-item{
-    font-weight: 500;
-    font-size: 16px;
-    list-style-type: none;
-    
-}
 .page-nav .items{
     text-decoration: none;
     color: #2E2F42;
