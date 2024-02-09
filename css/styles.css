@@ -45,8 +45,8 @@ body{
     color: #2E2F42;
     
 }
-.items-color:hover,
-.items-color:focus {
+.items:hover,
+.items:focus {
     color: #404bbf;
 }
 
